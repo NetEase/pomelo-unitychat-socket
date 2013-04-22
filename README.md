@@ -1,4 +1,4 @@
-pomelo-unitychat
+pomelo-unitychat-socket
 ================
 This is a chat application using [pomelo-unityclient-socket](https://github.com/NetEase/pomelo-unityclient-socket?source=cr) for pomelo,
 the server side is chatofpomelo(https://github.com/NetEase/chatofpomelo).
