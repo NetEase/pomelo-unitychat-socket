@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="d:\workspace\pomelo-unitychat\Assets\scripts\ChatGUI.cs">
+    <Files>
+      <File FileName="d:\workspace\pomelo-unitychat\Assets\scripts\ChatGUI.cs" Line="107" Column="3" />
+      <File FileName="Assets\scripts\LoginGUI.cs" Line="42" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp-vs" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True" />
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Skyboxes" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
