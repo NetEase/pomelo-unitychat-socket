@@ -1,7 +1,7 @@
 pomelo-unitychat-socket
 ================
 This is a chat application using [pomelo-unityclient-socket](https://github.com/NetEase/pomelo-unityclient-socket?source=cr) for pomelo,
-the server side is chatofpomelo(https://github.com/NetEase/chatofpomelo).
+the server side is chatofpomelo-websocket(https://github.com/NetEase/chatofpomelo-websocket).
 
 ##License
 (The MIT License)
